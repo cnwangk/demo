@@ -10,7 +10,7 @@
 
 # 前言
 
-用心作题图，用脚写文档。
+用心作题图，用脚写文档，那就是龙腾万里sky这个臭不要脸的小伙子啦。
 
 其实这篇文章是对之前的git系列文章的一个补充，毕竟还是需要有人完善最新版的github创建教程，并且使用gitee作为镜像仓库。
 
@@ -53,7 +53,7 @@ github创建账号的页面，这个欢迎界面比起N年前确实漂亮不少�
 - enter your email：输入你的邮箱账号；
 - create a password：输入密码；
 - enter a username：输入用户名，注册完后可以用于登录；
-- 最后一行提示y与n，**建议选n**，貌似有个防机器人验证。
+- 最后一行提示y与n，**建议选y**，貌似有个防机器人验证。
 
 ![](https://gitee.com/dywangk/img/raw/master/images/github%E5%88%9B%E5%BB%BA%E8%B4%A6%E5%8F%B7_proc.jpg)
 
@@ -274,11 +274,11 @@ To github.com:cnwangk/demo.git
 
 ### 4、加速访问github
 
-油侯插件，估计大家都不陌生吧！没错，就是油侯插件。
+油猴插件，估计大家都不陌生吧！没错，就是油猴插件。
 
-> 油侯插件下载：[https://www.tampermonkey.net/](https://www.tampermonkey.net/)
+> 油猴插件下载：[https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
-在Google Chrome管理油侯插件：
+在Google Chrome管理油猴插件：
 
 ![](https://gitee.com/dywangk/img/raw/master/images/Google_Chrome_%E5%90%AF%E7%94%A8%E6%B2%B9%E4%BE%AF%E5%8A%A0%E9%80%9Fgithub_proc.jpg)
 
@@ -310,7 +310,7 @@ To github.com:cnwangk/demo.git
 
 ## 三、使用gitee作github镜像仓库
 
-要问为什么需要使用gitee作为镜像仓库使用，那就是大家都懂得。
+要问为什么需要使用gitee作为镜像仓库使用，那就是大家都懂的。
 
 gitee仓库管理界面，找到功能设置，然后**滑至底部，进行设置需要强制同步的远程github仓库**：
 
@@ -446,7 +446,7 @@ github pages的配置页面
 
 # 总结
 
-以上就是对github入门教程进了一个总结，很基础的一个教程，萌新一样可以看懂哟！希望能对你的工作与学习有所帮助。感觉写的好，就拿出你的一键三连。公众号上更新的可能要快一点，目前还在完善中。**能看到这里的，都是帅哥靓妹**。如果感觉总结的不到位，也希望能留下您宝贵的意见，我会在文章中进行调整优化。
+以上就是对github入门教程进了一个总结，很基础的一个教程，萌新一样可以看懂哟！希望能对你的工作与学习有所帮助。感觉写的好，就拿出你的一键三连。公众号上更新可能要快一点，目前还在完善中。**能看到这里的，都是帅哥靓妹**。如果感觉总结不到位，也希望能留下您宝贵的意见，我会定期在文章中进行调整优化。
 
 ![](https://gitee.com/dywangk/img/raw/master/images/Snipaste_2022-01-25_20-24-05.jpg)
 
